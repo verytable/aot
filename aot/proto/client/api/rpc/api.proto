@@ -1,0 +1,8 @@
+package NApi.NRpc;
+
+option go_package = "go.verytable.online/aot/aot/go/proto/client/api/rpc";
+
+message TReqLookupRows
+{
+    required string path = 1;
+}
