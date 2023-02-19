@@ -4,6 +4,7 @@ go 1.19
 
 require (
 	github.com/go-sql-driver/mysql v1.7.0
+	github.com/golang/protobuf v1.4.3
 	github.com/stretchr/testify v1.8.1
 	go.opencensus.io v0.24.0
 	golang.org/x/crypto v0.6.0
